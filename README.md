@@ -1,21 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in Java Full Stack and MERN Stack. Currently honing my skills in Data Structures and Algorithms (DSA) and seeking a Java Full Stack internship.
-### What I'm Working On
-- 🛠️ Improving my DSA skills
-- 💡 Contributing to open source projects
-  
-### Skills
-- 💻 Java Full Stack Development
-- 🌐 MERN Stack
-  
-### Let's Connect
-- 💬 Open to collaboration
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/janhavi2409/)
-  
-### Fun Fact
-- ⚡ I enjoy solving complex problems and turning ideas into software!
-Explore my repositories and let's connect for new challenges and opportunities!
+I’m a passionate software developer specializing in Java Full Stack and MERN Stack. Currently, I’m sharpening my skills in Data Structures and Algorithms while exploring exciting open source projects. I’m always eager to tackle new challenges and connect with fellow tech enthusiasts. Let’s collaborate and create something amazing!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/janhavid_2409) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhavi2409) 
