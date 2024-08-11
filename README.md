@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Janhavi (JD)
 
 I’m a passionate software developer specializing in Java Full Stack and MERN Stack. Currently, I’m sharpening my skills in Data Structures and Algorithms while exploring exciting open source projects. I’m always eager to tackle new challenges and connect with fellow tech enthusiasts. Let’s collaborate and create something amazing!
 
